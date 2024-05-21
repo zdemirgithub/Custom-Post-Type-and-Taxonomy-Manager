@@ -3,7 +3,6 @@
 Plugin Name: Custom Post Type Manager
 Description: Easily create and manage custom post types and taxonomies.
 Version: 1.0
-Author: Your Name
 */
 
 // Register Custom Post Type
